@@ -1,0 +1,23 @@
+img {
+    height: 18em;
+    width: 18em;
+    text-align: left;
+}
+div img {
+    border: 10px solid;
+    length: 18em;
+    text-align: left;
+    float: left;
+}
+div a:hover{
+    color: green;
+}
+.dfl{
+    margin-right: 30%;
+}
+.checked {
+}
+.checked img {
+    width: 5em;
+    height: 5em;
+}
